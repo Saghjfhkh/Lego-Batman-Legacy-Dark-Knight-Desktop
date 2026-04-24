@@ -1,14 +1,11 @@
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/03cdca99-0cfb-4812-8e45-89ff47225b88" />
-
 # Lego Batman: Legacy of the Dark Knight Desktop Resource
 
 [![Stars](https://img.shields.io/github/stars/Saghjfhkh/Lego-Batman-Legacy-Dark-Knight-Desktop)](https://github.com/Saghjfhkh/Lego-Batman-Legacy-Dark-Knight-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Lego Batman: Legacy of the Dark Knight Desktop** is a high-performance professional resource designed for action-adventure enthusiasts and digital asset collectors. This 2026 optimized build features enhanced stability for modern Windows systems, high-fidelity texture support for 4K/8K displays, and an advanced management system for saved data and character profiles. Engineered for seamless integration, it provides a robust platform for exploring Gotham City with maximum performance and visual clarity.
-
 Experience the legacy with optimized rendering: featuring advanced configuration tools, ultrawide display support, and real-time resource synchronization for the ultimate desktop experience.
 
-
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/84bb6080-bb62-498c-8ce5-23ccadb764cf" />
 
 ---
 
